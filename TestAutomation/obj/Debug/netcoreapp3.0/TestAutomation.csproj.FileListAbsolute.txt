@@ -1,0 +1,4 @@
+C:\Users\Burken\source\repos\TestAutomation\TestAutomation\bin\Debug\netcoreapp3.0\TestAutomation.exe
+C:\Users\Burken\source\repos\TestAutomation\TestAutomation\obj\Debug\netcoreapp3.0\TestAutomation.csprojAssemblyReference.cache
+C:\Users\Burken\source\repos\TestAutomation\TestAutomation\obj\Debug\netcoreapp3.0\TestAutomation.AssemblyInfoInputs.cache
+C:\Users\Burken\source\repos\TestAutomation\TestAutomation\obj\Debug\netcoreapp3.0\TestAutomation.AssemblyInfo.cs
